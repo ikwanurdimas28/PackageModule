@@ -8,16 +8,16 @@
 Membuat package dan modul berdasarkan tugas praktikum yang sebelumnya dengan struktur seperti berikut:
 
 - daftar_nilai.py berisi modul untuk: tambah_data, ubah_data, hapus_data, dan cari_data
-![output](gambar/daftar.PNG)
+![output](gambar/daftar.png)
 
 - view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian
-![output](gambar/view.PNG)
+![output](gambar/view.png)
 
 - input_nilai.py berisi modul untuk: input_data yang meminta pengguna memasukkan data.
-![output](gambar/input.PNG)
+![output](gambar/input.png)
 
 - main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada
-![output](gambar/main.PNG)
+![output](gambar/main.png)
 
 - hasil UAS
-![output](gambar/hasil.PNG)
+![output](gambar/hasil.png)
