@@ -11,10 +11,10 @@ Membuat package dan modul berdasarkan tugas praktikum yang sebelumnya dengan str
 ![output](gambar/daftar.png)
 
 - view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian
-![output](gambar/view.png)
+![output](gambar/input.png)
 
 - input_nilai.py berisi modul untuk: input_data yang meminta pengguna memasukkan data.
-![output](gambar/input.png)
+![output](gambar/view.png)
 
 - main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada
 ![output](gambar/main.png)
