@@ -1,5 +1,4 @@
 # Penyelesaian Ulangan Akhir Semester Bahasa Pemrograman
-# labspy02
 ## Tugas Melengkapi Praktikum 2
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
